@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: p2.osgi.bundle:org.eclipse.emf.mwe.utils:1.0.0.v201006150535">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.eclipse.emf.mwe.utils/1.0.0.v201006150535/org.eclipse.emf.mwe.utils-1.0.0.v201006150535.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.eclipse.emf.mwe.utils/1.0.0.v201006150535/org.eclipse.emf.mwe.utils-1.0.0.v201006150535-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.eclipse.emf.mwe.utils/1.0.0.v201006150535/org.eclipse.emf.mwe.utils-1.0.0.v201006150535-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

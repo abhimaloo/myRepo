@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: p2.osgi.bundle:de.itemis.xtext.antlr:1.0.1.v201008241111">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/de.itemis.xtext.antlr/1.0.1.v201008241111/de.itemis.xtext.antlr-1.0.1.v201008241111.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/de.itemis.xtext.antlr/1.0.1.v201008241111/de.itemis.xtext.antlr-1.0.1.v201008241111-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/de.itemis.xtext.antlr/1.0.1.v201008241111/de.itemis.xtext.antlr-1.0.1.v201008241111-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

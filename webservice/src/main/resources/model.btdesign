@@ -1,0 +1,30 @@
+Application MyApp {
+    basePackage=com.geeps.backend
+
+    Module hello {
+      Service SampleService {
+       inject @SampleRepository
+
+       "Create a sample onject"
+       @Sample create(@Sample sample) ;
+
+      }
+
+      Entity Sample {
+
+         String entity key;
+         String message;
+
+         Repository SampleRepository {
+            findById;
+            save;
+            delete;
+            findAll;
+
+         }
+
+      }
+
+    }
+
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: p2.osgi.bundle:org.antlr.runtime:3.0.0.v200803061811">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.antlr.runtime/3.0.0.v200803061811/org.antlr.runtime-3.0.0.v200803061811.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.antlr.runtime/3.0.0.v200803061811/org.antlr.runtime-3.0.0.v200803061811-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.antlr.runtime/3.0.0.v200803061811/org.antlr.runtime-3.0.0.v200803061811-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

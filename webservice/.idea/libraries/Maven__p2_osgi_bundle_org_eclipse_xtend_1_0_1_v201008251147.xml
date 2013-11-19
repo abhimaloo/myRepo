@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: p2.osgi.bundle:org.eclipse.xtend:1.0.1.v201008251147">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.eclipse.xtend/1.0.1.v201008251147/org.eclipse.xtend-1.0.1.v201008251147.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.eclipse.xtend/1.0.1.v201008251147/org.eclipse.xtend-1.0.1.v201008251147-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.eclipse.xtend/1.0.1.v201008251147/org.eclipse.xtend-1.0.1.v201008251147-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

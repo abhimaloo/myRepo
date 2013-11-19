@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: p2.osgi.bundle:org.eclipse.xtext.common.types:1.0.1.v201008251220">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.eclipse.xtext.common.types/1.0.1.v201008251220/org.eclipse.xtext.common.types-1.0.1.v201008251220.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.eclipse.xtext.common.types/1.0.1.v201008251220/org.eclipse.xtext.common.types-1.0.1.v201008251220-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.eclipse.xtext.common.types/1.0.1.v201008251220/org.eclipse.xtext.common.types-1.0.1.v201008251220-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

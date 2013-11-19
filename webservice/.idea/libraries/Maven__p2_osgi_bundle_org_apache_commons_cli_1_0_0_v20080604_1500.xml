@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: p2.osgi.bundle:org.apache.commons.cli:1.0.0.v20080604-1500">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.apache.commons.cli/1.0.0.v20080604-1500/org.apache.commons.cli-1.0.0.v20080604-1500.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.apache.commons.cli/1.0.0.v20080604-1500/org.apache.commons.cli-1.0.0.v20080604-1500-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/org.apache.commons.cli/1.0.0.v20080604-1500/org.apache.commons.cli-1.0.0.v20080604-1500-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: p2.osgi.bundle:com.google.inject:2.0.0.v201003051000">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/com.google.inject/2.0.0.v201003051000/com.google.inject-2.0.0.v201003051000.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/com.google.inject/2.0.0.v201003051000/com.google.inject-2.0.0.v201003051000-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/com.google.inject/2.0.0.v201003051000/com.google.inject-2.0.0.v201003051000-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

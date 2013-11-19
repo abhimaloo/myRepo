@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: p2.osgi.bundle:com.ibm.icu:4.2.1.v20100412">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/com.ibm.icu/4.2.1.v20100412/com.ibm.icu-4.2.1.v20100412.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/com.ibm.icu/4.2.1.v20100412/com.ibm.icu-4.2.1.v20100412-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/p2/osgi/bundle/com.ibm.icu/4.2.1.v20100412/com.ibm.icu-4.2.1.v20100412-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
